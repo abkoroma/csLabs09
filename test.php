@@ -11,8 +11,3 @@
 
 </body>
 </html>
-
-
-git branch -M main
-git remote add origin https://github.com/abkoroma/csLabs09.git
-git push -u origin main
